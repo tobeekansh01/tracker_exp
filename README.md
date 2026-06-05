@@ -3,8 +3,8 @@
 Ein in **Python** und **Flask** entwickelter Web-Anwendungs-Prototyp zur Protokollierung und Verwaltung von täglichen Ausgaben und laufenden Abonnements.
 
 ## 🛠️ Tech Stack
-* **Backend:** **Python 3**, Flask Framework
-* **Datenbank:** SQLite3 (relationales Datenbanksystem)
+* **Backend:** Python 3, Flask Framework
+* **Datenbank:** SQLite3 **(relationales Datenbanksystem)**
 * **Frontend:** HTML5, CSS3 **(Flexbox-Architektur)**
 
 ## 🚀 Features
