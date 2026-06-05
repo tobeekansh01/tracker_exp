@@ -3,9 +3,9 @@
 Ein in **Python** und **Flask** entwickelter Web-Anwendungs-Prototyp zur Protokollierung und Verwaltung von täglichen Ausgaben und laufenden Abonnements.
 
 ## 🛠️ Tech Stack
-* **Backend:** Python 3, Flask Framework
+* **Backend:** **Python 3**, Flask Framework
 * **Datenbank:** SQLite3 (relationales Datenbanksystem)
-* **Frontend:** HTML5, CSS3 (Flexbox-Architektur)
+* **Frontend:** HTML5, CSS3 **(Flexbox-Architektur)**
 
 ## 🚀 Features
 * Vollständige **CRUD-Funktionalität** (Einträge erstellen, lesen, aktualisieren und löschen) direkt über die Weboberfläche.
@@ -17,4 +17,3 @@ Ein in **Python** und **Flask** entwickelter Web-Anwendungs-Prototyp zur Protoko
 1. Repository klonen:
 ```bash
    git clone [https://github.com/tobeekansh01/tracker_exp.git](https://github.com/tobeekansh01/tracker_exp.git)
-
